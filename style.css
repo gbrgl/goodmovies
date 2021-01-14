@@ -21,3 +21,9 @@ body {
     height: 180px;
     object-fit: cover;
 }
+
+body.login-form {
+    background-image: url("img/movie-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
